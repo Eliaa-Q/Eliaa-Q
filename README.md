@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eliaa-Q
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning OOP
+- 🌱 I’m currently learning Front-End
 - 📫 you can reach me using the email: eliaaquraan@gmail.com
 
 <!---
