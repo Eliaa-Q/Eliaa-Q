@@ -3,8 +3,10 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Eliaa Quraan](https://www.linkedin.com/in/eliaa-quraan-68909b315)) 
-[![Portfolio Soon]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://img.shields.io/badge/portfolio-8A2BE2))]([https://)) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliaa-quraan-68909b315)
+
+[![🎨 Portfolio](https://img.shields.io/badge/Portfolio-FF6E96?logo=aboutdotme&logoColor=white)](https://eliaaquraan.wixsite.com/eliaaui)
 
 
 
